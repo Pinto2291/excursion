@@ -19,7 +19,7 @@ body {
     text-align: center;
 }
 
-/* ELEMENTS */
+/* BODY */
 
 .title {
     font-family: var(--font-family-verdana);
@@ -29,17 +29,17 @@ body {
     text-align: center;
 }
 
-.link {
-    color: var(--font-aquamarine);
-    font-size: 1.6rem;
-    font-family: var(--font-family-verdana);
-}
-
 .title-2 {
     font-family: var(--font-family-verdana);
     font-weight: 300;
     font-size: 4.2rem;
     color: var(--font-white);
+}
+
+.link {
+    color: var(--font-aquamarine);
+    font-size: 1.6rem;
+    font-family: var(--font-family-verdana);
 }
 
 .text {
