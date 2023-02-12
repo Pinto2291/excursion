@@ -48,6 +48,12 @@ body {
     color: var(--font-grey);
 }
 
+.excursion-video {
+    display: block;
+    margin: 0 auto;
+    margin-top: 2rem;
+}
+
 /* FOOTER */
 
 .text-footer {
